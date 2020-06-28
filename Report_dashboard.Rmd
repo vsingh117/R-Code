@@ -223,7 +223,7 @@ animate(anim, 200, duration=25,  width = 1200, height = 1000,
 Column {data-width=500}
 -----------------------------------------------------------------------
 
-### Malaria deaths by age grouop in top affected Contries
+### Malaria deaths by age group in top affected Contries
 
 ```{r}
 
