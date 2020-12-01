@@ -14,3 +14,6 @@ https://vijay-projects.shinyapps.io/problem-set-3-chauhan/
 
 Link to visualization dashboard for Covid data :-
 https://vijay-projects.shinyapps.io/VisAnalytics/
+
+Link to visualization dashboard for Malaria data :-
+file:///E:/MS_studyProcess/UNCC-Study/2.Summer-2020/5122-Visual%20Analytics/Mid-Term%20Project/MalariaAnalysis/MalariaDeaths-Analysis.html#initial-analysis
